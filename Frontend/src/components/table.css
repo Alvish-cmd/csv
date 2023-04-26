@@ -1,0 +1,16 @@
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    position: absolute;
+    top: 150px;
+    left: 10%;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  th {
+    height: 70px;
+  }
+ 
